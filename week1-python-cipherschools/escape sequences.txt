@@ -1,0 +1,13 @@
+#escape sequences  
+#\' single quotes
+#\" double quotes
+#\\ backslash
+#\n new line
+#\t tab
+#\b backspace
+print("hello \"ayushi\" bomtey")
+print('I\'m ayushi')
+print("line A\nline B")
+print("name \t ayushi")
+print("this is ayushi\\\\")
+print("ayushi\baa")
